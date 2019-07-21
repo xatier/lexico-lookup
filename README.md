@@ -10,4 +10,4 @@ Look up selected text on lexico.com
 
 ## Screenshots
 
-(TODO)
+![image](/images/screenshot.png)
