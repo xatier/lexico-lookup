@@ -11,3 +11,9 @@ Chrome extension for looking up `selected text` on [lexico.com](https://www.lexi
 ## Screenshots
 
 ![image](/images/screenshot.png)
+
+
+## See also
+
+- [https://www.lexico.com/en](https://www.lexico.com/en).
+
