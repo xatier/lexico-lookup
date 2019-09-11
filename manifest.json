@@ -11,5 +11,8 @@
 
     "permissions": [
         "contextMenus"
-    ]
+    ],
+    "icons": {
+        "48": "icon-48x48.png"
+    }
 }

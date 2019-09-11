@@ -17,3 +17,7 @@ Chrome extension for looking up `selected text` on [lexico.com](https://www.lexi
 
 - [https://www.lexico.com/en](https://www.lexico.com/en).
 
+
+## Icon
+
+The Lexico icon is taken from [favicon.ico](https://www.lexico.com/favicon.ico) of the site.
