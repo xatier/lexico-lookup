@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 chrome.contextMenus.create({
     "title": "Lookup \"%s\" on lexico.com",
     "contexts": ['selection'],
