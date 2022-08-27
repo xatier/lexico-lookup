@@ -2,8 +2,8 @@
     "manifest_version": 2,
 
     "name": "Lexico lookup",
-    "description": "Lookup selected words on lexico.com easily.",
-    "version": "0.2",
+    "description": "Lookup selected words on dictionary.com (old lexico.com) easily.",
+    "version": "0.3",
 
     "background": {
         "scripts": ["app.js"]

@@ -1,7 +1,9 @@
 # Lexico lookup
 
-Chrome extension for looking up `selected text` on [lexico.com](https://www.lexico.com/en).
+Note: lexico.com stopped working as of 2022/08/26, this plugin will be using
+[dictionary.com](https://www.dictionary.com/) instead.
 
+Chrome extension for looking up `selected text` on [lexico.com](https://www.lexico.com/en).
 
 ## Installation
 
@@ -9,16 +11,14 @@ Chrome extension for looking up `selected text` on [lexico.com](https://www.lexi
 2. Navigate to `chrome://extensions` on Chromium.
 3. Load unpacked
 
-
 ## Screenshots
 
 ![image](/images/screenshot.png)
 
-
 ## See also
 
 - [https://www.lexico.com/en](https://www.lexico.com/en).
-
+- [https://www.dictionary.com/](https://www.dictionary.com/).
 
 ## Icon
 
