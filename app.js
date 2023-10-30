@@ -6,6 +6,6 @@ chrome.contextMenus.create({
     var url = `https://www.dictionary.com/browse/${encodeURIComponent(
       info.selectionText
     )}`
-    chrome.tabs.create({ url: url })
+    chrome.tabs.create({ url: url, index: tab.index + 1 })
   },
 })
