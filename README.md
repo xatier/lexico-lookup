@@ -19,6 +19,7 @@ Chrome extension for looking up `selected text` on [lexico.com](https://www.lexi
 
 - [https://www.lexico.com/en](https://www.lexico.com/en).
 - [https://www.dictionary.com/](https://www.dictionary.com/).
+- [https://dictionary.goo.ne.jp/](https://dictionary.goo.ne.jp/).
 
 ## Icon
 
