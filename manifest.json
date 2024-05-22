@@ -3,7 +3,7 @@
 
     "name": "Lexico lookup",
     "description": "Lookup selected words on dictionary.com (old lexico.com) easily.",
-    "version": "0.4",
+    "version": "0.5",
 
     "background": {
         "scripts": ["app.js"]
