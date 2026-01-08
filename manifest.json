@@ -1,12 +1,12 @@
 {
-    "manifest_version": 2,
+    "manifest_version": 3,
 
     "name": "Lexico lookup",
     "description": "Lookup selected words on dictionary.com (old lexico.com) easily.",
-    "version": "0.7",
+    "version": "0.8",
 
     "background": {
-        "scripts": ["app.js"]
+        "service_worker": "app.js"
     },
 
     "permissions": [
